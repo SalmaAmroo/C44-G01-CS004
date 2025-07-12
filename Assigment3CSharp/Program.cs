@@ -178,6 +178,34 @@ namespace Assigment3CSharp
             //Console.WriteLine($"MaxElement : {Max} , SecondMaxElement : {SecondMax}");
             #endregion
 
+            #region Q7
+            ////Q7:Write a program in C# Sharp to find the maximum distance between two same elements in an array.
+            //Console.WriteLine("Pls Enter the size of Array");
+            //int size = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Pls Enter the elements of Array1");
+            //int[] arr = new int[size];
+            //for (int i = 0; i < size; i++)
+            //{
+            //    arr[i] = int.Parse(Console.ReadLine());
+            //}
+            //int Max = 0;
+            //for(int i = 0; i < size; i++)
+            //{
+            //    for (int j = size-1; j > i; j--)
+            //    { 
+            //        if (arr[i] == arr[j])
+            //        {
+            //            int distance = j-i-1;
+            //            if (distance > Max)
+            //            {
+            //                Max = distance;
+            //            }
+            //        }
+            //    }
+            //}
+            //Console.WriteLine($"MaxDistance : {Max}");
+            #endregion
+
 
         }
     }
