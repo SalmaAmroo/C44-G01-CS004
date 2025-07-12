@@ -239,8 +239,31 @@ namespace Assigment3CSharp
             //    if (i < arr1.Length - 1)
             //        Console.Write(" ,");
 
-               
+
             //}
+            #endregion
+
+            #region Q10
+            //Console.WriteLine("Pls Enter the size of Array");
+            //int size = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Pls Enter the elements of Array1");
+            //int[] arr = new int[size];
+            //for (int i = 0; i < size; i++)
+            //{
+            //    arr[i] = int.Parse(Console.ReadLine());
+            //}
+            //Console.Write("Reversed Array:");
+            //Console.Write("[");
+
+            //for (int i = size-1; i >=0; i--)
+            //{
+            //   Console.Write(arr[i]);
+            //    if(i>0)
+            //        Console.Write(" ,");
+
+            //}
+            //Console.WriteLine("]");
+
             #endregion
 
 
