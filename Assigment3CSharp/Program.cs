@@ -150,6 +150,34 @@ namespace Assigment3CSharp
 
             #endregion
 
+            #region Q6
+            ////Q6:Write a program in C# Sharp to find the second largest element in an array.
+            //Console.WriteLine("Pls Enter the size of Array");
+            //int size = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Pls Enter the elements of Array1");
+            //int[] arr = new int[size];
+            //for (int i = 0; i < size; i++)
+            //{
+            //    arr[i] = int.Parse(Console.ReadLine());
+            //}
+
+            //int Max = arr[0];
+            //int SecondMax = arr[0];
+            //for(int i =0;i<size;i++)
+            //{
+            //    if (arr[i]>Max)
+            //    {
+            //        SecondMax =Max;
+            //        Max= arr[i];
+            //    }
+            //    if (arr[i]> SecondMax && arr[i] != Max)
+            //    {
+            //        SecondMax = arr[i];
+            //    }
+            //}
+            //Console.WriteLine($"MaxElement : {Max} , SecondMaxElement : {SecondMax}");
+            #endregion
+
 
         }
     }
