@@ -107,7 +107,7 @@ namespace Assigment3CSharp
             //    arr[i] = int.Parse(Console.ReadLine());
             //    clacindx[i] = false;
             //}
-            
+
             //for (int i = 0; i < size; i++)
             //{
             //    if (clacindx[i]) continue;
@@ -122,7 +122,31 @@ namespace Assigment3CSharp
             //    }
             //   Console.WriteLine($"countof {arr[i]} = {count}");
             //}
-            
+
+
+            #endregion
+
+            #region Q5
+            ////Q5:Write a program in C# Sharp to find maximum and minimum element in an array
+            //Console.WriteLine("Pls Enter the size of Array");
+            //int size = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Pls Enter the elements of Array1");
+            //int[] arr = new int[size];
+            //for (int i = 0; i < size; i++)
+            //{
+            //    arr[i] = int.Parse(Console.ReadLine());
+            //}
+            //int Max = arr[0];
+            //int Min = arr[0];
+            //for(int i = 0; i < size; i++)
+            //{
+            //    if(arr[i]>Max)
+            //        Max = arr[i];
+
+            //    if (arr[i] < Min)
+            //        Min = arr[i];
+            //}
+            //Console.WriteLine($"MaxElement : {Max} , MinElement : {Min}");
 
             #endregion
 
