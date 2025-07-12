@@ -221,6 +221,28 @@ namespace Assigment3CSharp
 
             #endregion
 
+            #region Q9 
+            //Console.WriteLine("Pls Enter the size of Array");
+            //int size = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Pls Enter the elements of Array1");
+            //int[] arr1 = new int[size];
+            //for (int i = 0; i < size; i++)
+            //{
+            //    arr1[i] = int.Parse(Console.ReadLine());
+            //}
+            //int[] arr2 = new int[size];
+            //arr1.CopyTo(arr2, 0);
+            //Console.Write("Arr2:");
+            //for (int i =0;i<size;i++)
+            //{
+            //    Console.Write($"{arr2[i]}");
+            //    if (i < arr1.Length - 1)
+            //        Console.Write(" ,");
+
+               
+            //}
+            #endregion
+
 
         }
     }
