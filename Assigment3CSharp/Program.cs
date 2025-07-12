@@ -74,7 +74,7 @@ namespace Assigment3CSharp
             //Console.Write("{");
             //for (int i = 0; i < mergedArray.Length; i++)
             //{
-                
+
             //    Console.Write($"{mergedArray[i]} ");
             //    if (i < mergedArray.Length - 1)
             //        Console.Write(" ,");
@@ -92,6 +92,37 @@ namespace Assigment3CSharp
             //        Console.Write(" ,");
             //}
             //Console.Write("}");
+
+            #endregion
+
+            #region Q4
+            ////Q4: Write a program in C# Sharp to count the frequency of each element of an array.
+            //Console.WriteLine("Pls Enter the size of Array");
+            //int size = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Pls Enter the elements of Array1");
+            //int[] arr = new int[size];
+            //bool[] clacindx = new bool[size];
+            //for (int i = 0; i < size; i++)
+            //{
+            //    arr[i] = int.Parse(Console.ReadLine());
+            //    clacindx[i] = false;
+            //}
+            
+            //for (int i = 0; i < size; i++)
+            //{
+            //    if (clacindx[i]) continue;
+            //   int count = 1;
+            //    for (int j = i + 1; j < size; j++)
+            //    {
+            //        if (arr[i] == arr[j])
+            //        {
+            //            count++;
+            //            clacindx[j] = true;
+            //        }
+            //    }
+            //   Console.WriteLine($"countof {arr[i]} = {count}");
+            //}
+            
 
             #endregion
 
