@@ -33,6 +33,22 @@
 
             #endregion
 
+            #region Q2
+            ////Q2:2. Write a program in C# Sharp to find the sum of all elements of the array.
+            //Console.WriteLine("Pls Enter the size of Array");
+            //int size = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Pls Enter the elements of Array");
+            //int[] arr = new int[size];
+            //int sum = 0;
+            //for (int i = 0; i < size; i++)
+            //{
+            //    arr[i] = int.Parse(Console.ReadLine());
+            //    sum += arr[i];
+            //}
+            //Console.WriteLine($"The sum of all elements of the array is: {sum}");
+
+            #endregion
+
 
         }
     }
