@@ -1,4 +1,6 @@
-﻿namespace Assigment3CSharp
+﻿using System.Collections.Immutable;
+
+namespace Assigment3CSharp
 {
     internal class Program
     {
@@ -46,6 +48,50 @@
             //    sum += arr[i];
             //}
             //Console.WriteLine($"The sum of all elements of the array is: {sum}");
+
+            #endregion
+
+            #region Q3
+            ////Q3: Write a program in C# Sharp to merge two arrays of the same size sorted in ascending order.
+            //Console.WriteLine("Pls Enter the size of Array");
+            //int size = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Pls Enter the elements of Array1");
+            //int[] arr1 = new int[size];
+            //for (int i = 0; i < size; i++)
+            //{
+            //    arr1[i] = int.Parse(Console.ReadLine());
+            //}
+            //Console.WriteLine("Pls Enter the elements of Array2");
+            //int[] arr2 = new int[size];
+            //for (int i = 0; i < size; i++)
+            //{
+            //    arr2[i] = int.Parse(Console.ReadLine());
+            //}
+            //int[] mergedArray = new int[size * 2];
+            //arr1.CopyTo(mergedArray, 0);
+            //arr2.CopyTo(mergedArray, size);
+            //Console.WriteLine("TheMergedArray : ");
+            //Console.Write("{");
+            //for (int i = 0; i < mergedArray.Length; i++)
+            //{
+                
+            //    Console.Write($"{mergedArray[i]} ");
+            //    if (i < mergedArray.Length - 1)
+            //        Console.Write(" ,");
+            //}
+            //Console.Write("}");
+            //Console.WriteLine();
+            //Array.Sort(mergedArray);
+            //Console.WriteLine("TheSortedArray : ");
+            //Console.Write("{");
+            //for (int i = 0; i < mergedArray.Length; i++)
+            //{
+
+            //    Console.Write($"{mergedArray[i]} ");
+            //    if (i < mergedArray.Length - 1)
+            //        Console.Write(" ,");
+            //}
+            //Console.Write("}");
 
             #endregion
 
