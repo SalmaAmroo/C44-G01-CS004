@@ -206,6 +206,21 @@ namespace Assigment3CSharp
             //Console.WriteLine($"MaxDistance : {Max}");
             #endregion
 
+            #region Q8
+            ////Q8: Given a list of space separated words, reverse the order of the words.Console.WriteLine("Pls Enter string with seperate '  '");
+            //string input = Console.ReadLine();
+            //string[] Words = input.Split(' ');
+            //Console.WriteLine("Seperate words :");
+
+            //for (int i=Words.Length -1; i>=0;i--)
+            //{
+            //    Console.Write(Words[i]);
+            //    if (i > 0)
+            //        Console.Write(" ");
+            //}
+
+            #endregion
+
 
         }
     }
